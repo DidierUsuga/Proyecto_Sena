@@ -1,0 +1,15 @@
+#Comando para crear aplicacion Angular
+ng new AppTioSoft
+
+#Comando para ejecutar comandos de script en visual studio code (Solo si visual no deja ejecutar scripst)
+Set-ExecutionPolicy Bypass
+
+#Version de angular que tengo
+ng version
+
+#Migracion de angular anterior
+npm install -g @angular/cli@14.2.0
+
+#Migracion de angular actual
+npm install -g @angular/cli
+

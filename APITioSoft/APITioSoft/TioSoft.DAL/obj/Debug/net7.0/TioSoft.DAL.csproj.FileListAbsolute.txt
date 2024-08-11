@@ -1,0 +1,15 @@
+C:\Users\sebas\OneDrive\Escritorio\TioSoftAngular\APITioSoft\TioSoft.DAL\bin\Debug\net7.0\TioSoft.DAL.deps.json
+C:\Users\sebas\OneDrive\Escritorio\TioSoftAngular\APITioSoft\TioSoft.DAL\bin\Debug\net7.0\TioSoft.DAL.dll
+C:\Users\sebas\OneDrive\Escritorio\TioSoftAngular\APITioSoft\TioSoft.DAL\bin\Debug\net7.0\TioSoft.DAL.pdb
+C:\Users\sebas\OneDrive\Escritorio\TioSoftAngular\APITioSoft\TioSoft.DAL\obj\Debug\net7.0\TioSoft.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sebas\OneDrive\Escritorio\TioSoftAngular\APITioSoft\TioSoft.DAL\obj\Debug\net7.0\TioSoft.DAL.AssemblyInfoInputs.cache
+C:\Users\sebas\OneDrive\Escritorio\TioSoftAngular\APITioSoft\TioSoft.DAL\obj\Debug\net7.0\TioSoft.DAL.AssemblyInfo.cs
+C:\Users\sebas\OneDrive\Escritorio\TioSoftAngular\APITioSoft\TioSoft.DAL\obj\Debug\net7.0\TioSoft.DAL.csproj.CoreCompileInputs.cache
+C:\Users\sebas\OneDrive\Escritorio\TioSoftAngular\APITioSoft\TioSoft.DAL\obj\Debug\net7.0\TioSoft.DAL.dll
+C:\Users\sebas\OneDrive\Escritorio\TioSoftAngular\APITioSoft\TioSoft.DAL\obj\Debug\net7.0\refint\TioSoft.DAL.dll
+C:\Users\sebas\OneDrive\Escritorio\TioSoftAngular\APITioSoft\TioSoft.DAL\obj\Debug\net7.0\TioSoft.DAL.pdb
+C:\Users\sebas\OneDrive\Escritorio\TioSoftAngular\APITioSoft\TioSoft.DAL\obj\Debug\net7.0\ref\TioSoft.DAL.dll
+C:\Users\sebas\OneDrive\Escritorio\TioSoftAngular\APITioSoft\TioSoft.DAL\bin\Debug\net7.0\TioSoft.Model.dll
+C:\Users\sebas\OneDrive\Escritorio\TioSoftAngular\APITioSoft\TioSoft.DAL\bin\Debug\net7.0\TioSoft.Model.pdb
+C:\Users\sebas\OneDrive\Escritorio\TioSoftAngular\APITioSoft\TioSoft.DAL\obj\Debug\net7.0\TioSoft.DAL.csproj.AssemblyReference.cache
+C:\Users\sebas\OneDrive\Escritorio\TioSoftAngular\APITioSoft\TioSoft.DAL\obj\Debug\net7.0\TioSoft.DAL.csproj.CopyComplete

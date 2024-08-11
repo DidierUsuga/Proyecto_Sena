@@ -1,0 +1,17 @@
+C:\Users\sebas\OneDrive\Escritorio\TioSoftAngular\APITioSoft\TioSoft.Utility\bin\Debug\net7.0\TioSoft.Utility.deps.json
+C:\Users\sebas\OneDrive\Escritorio\TioSoftAngular\APITioSoft\TioSoft.Utility\bin\Debug\net7.0\TioSoft.Utility.dll
+C:\Users\sebas\OneDrive\Escritorio\TioSoftAngular\APITioSoft\TioSoft.Utility\bin\Debug\net7.0\TioSoft.Utility.pdb
+C:\Users\sebas\OneDrive\Escritorio\TioSoftAngular\APITioSoft\TioSoft.Utility\obj\Debug\net7.0\TioSoft.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sebas\OneDrive\Escritorio\TioSoftAngular\APITioSoft\TioSoft.Utility\obj\Debug\net7.0\TioSoft.Utility.AssemblyInfoInputs.cache
+C:\Users\sebas\OneDrive\Escritorio\TioSoftAngular\APITioSoft\TioSoft.Utility\obj\Debug\net7.0\TioSoft.Utility.AssemblyInfo.cs
+C:\Users\sebas\OneDrive\Escritorio\TioSoftAngular\APITioSoft\TioSoft.Utility\obj\Debug\net7.0\TioSoft.Utility.csproj.CoreCompileInputs.cache
+C:\Users\sebas\OneDrive\Escritorio\TioSoftAngular\APITioSoft\TioSoft.Utility\obj\Debug\net7.0\TioSoft.Utility.dll
+C:\Users\sebas\OneDrive\Escritorio\TioSoftAngular\APITioSoft\TioSoft.Utility\obj\Debug\net7.0\refint\TioSoft.Utility.dll
+C:\Users\sebas\OneDrive\Escritorio\TioSoftAngular\APITioSoft\TioSoft.Utility\obj\Debug\net7.0\TioSoft.Utility.pdb
+C:\Users\sebas\OneDrive\Escritorio\TioSoftAngular\APITioSoft\TioSoft.Utility\obj\Debug\net7.0\ref\TioSoft.Utility.dll
+C:\Users\sebas\OneDrive\Escritorio\TioSoftAngular\APITioSoft\TioSoft.Utility\bin\Debug\net7.0\TioSoft.DTO.dll
+C:\Users\sebas\OneDrive\Escritorio\TioSoftAngular\APITioSoft\TioSoft.Utility\bin\Debug\net7.0\TioSoft.Model.dll
+C:\Users\sebas\OneDrive\Escritorio\TioSoftAngular\APITioSoft\TioSoft.Utility\bin\Debug\net7.0\TioSoft.DTO.pdb
+C:\Users\sebas\OneDrive\Escritorio\TioSoftAngular\APITioSoft\TioSoft.Utility\bin\Debug\net7.0\TioSoft.Model.pdb
+C:\Users\sebas\OneDrive\Escritorio\TioSoftAngular\APITioSoft\TioSoft.Utility\obj\Debug\net7.0\TioSoft.Utility.csproj.AssemblyReference.cache
+C:\Users\sebas\OneDrive\Escritorio\TioSoftAngular\APITioSoft\TioSoft.Utility\obj\Debug\net7.0\TioSoft.Utility.csproj.CopyComplete

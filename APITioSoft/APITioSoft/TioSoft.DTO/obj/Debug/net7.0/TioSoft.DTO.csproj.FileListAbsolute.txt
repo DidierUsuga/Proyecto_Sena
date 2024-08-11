@@ -1,0 +1,11 @@
+C:\Users\sebas\OneDrive\Escritorio\TioSoftAngular\APITioSoft\TioSoft.DTO\bin\Debug\net7.0\TioSoft.DTO.deps.json
+C:\Users\sebas\OneDrive\Escritorio\TioSoftAngular\APITioSoft\TioSoft.DTO\bin\Debug\net7.0\TioSoft.DTO.dll
+C:\Users\sebas\OneDrive\Escritorio\TioSoftAngular\APITioSoft\TioSoft.DTO\bin\Debug\net7.0\TioSoft.DTO.pdb
+C:\Users\sebas\OneDrive\Escritorio\TioSoftAngular\APITioSoft\TioSoft.DTO\obj\Debug\net7.0\TioSoft.DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sebas\OneDrive\Escritorio\TioSoftAngular\APITioSoft\TioSoft.DTO\obj\Debug\net7.0\TioSoft.DTO.AssemblyInfoInputs.cache
+C:\Users\sebas\OneDrive\Escritorio\TioSoftAngular\APITioSoft\TioSoft.DTO\obj\Debug\net7.0\TioSoft.DTO.AssemblyInfo.cs
+C:\Users\sebas\OneDrive\Escritorio\TioSoftAngular\APITioSoft\TioSoft.DTO\obj\Debug\net7.0\TioSoft.DTO.csproj.CoreCompileInputs.cache
+C:\Users\sebas\OneDrive\Escritorio\TioSoftAngular\APITioSoft\TioSoft.DTO\obj\Debug\net7.0\TioSoft.DTO.dll
+C:\Users\sebas\OneDrive\Escritorio\TioSoftAngular\APITioSoft\TioSoft.DTO\obj\Debug\net7.0\refint\TioSoft.DTO.dll
+C:\Users\sebas\OneDrive\Escritorio\TioSoftAngular\APITioSoft\TioSoft.DTO\obj\Debug\net7.0\TioSoft.DTO.pdb
+C:\Users\sebas\OneDrive\Escritorio\TioSoftAngular\APITioSoft\TioSoft.DTO\obj\Debug\net7.0\ref\TioSoft.DTO.dll

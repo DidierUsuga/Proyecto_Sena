@@ -1,0 +1,17 @@
+#Comando para crear aplicacion Angular
+ng new AppTioSoft
+
+#Comando para instalar Angular material en nuestro proyecto de angular
+ ng add @angular/material@14.2.7 --version especifica
+ ng add @angular/material@lastest --ultima version
+
+
+#Paquetes para nuestro proyecto de angular
+npm install sweetalert2@11.6.16
+npm install moment@2.29.4
+npm i @angular/material-moment-adapter@14.2.7  (Tiene que ser igual a la version de angular-material que este en el proyecto)
+npm install chart.js@3.9.1 
+npm i xlsx@0.18.5 (Paara generar reportes en excel)
+
+
+

@@ -1,0 +1,14 @@
+C:\Users\sebas\OneDrive\Escritorio\TioSoftAngular\APITioSoft\TioSoft.Model\bin\Debug\net7.0\TioSoft.Model.deps.json
+C:\Users\sebas\OneDrive\Escritorio\TioSoftAngular\APITioSoft\TioSoft.Model\bin\Debug\net7.0\TioSoft.Model.runtimeconfig.json
+C:\Users\sebas\OneDrive\Escritorio\TioSoftAngular\APITioSoft\TioSoft.Model\bin\Debug\net7.0\TioSoft.Model.dll
+C:\Users\sebas\OneDrive\Escritorio\TioSoftAngular\APITioSoft\TioSoft.Model\bin\Debug\net7.0\TioSoft.Model.pdb
+C:\Users\sebas\OneDrive\Escritorio\TioSoftAngular\APITioSoft\TioSoft.Model\obj\Debug\net7.0\TioSoft.Model.csproj.AssemblyReference.cache
+C:\Users\sebas\OneDrive\Escritorio\TioSoftAngular\APITioSoft\TioSoft.Model\obj\Debug\net7.0\TioSoft.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sebas\OneDrive\Escritorio\TioSoftAngular\APITioSoft\TioSoft.Model\obj\Debug\net7.0\TioSoft.Model.AssemblyInfoInputs.cache
+C:\Users\sebas\OneDrive\Escritorio\TioSoftAngular\APITioSoft\TioSoft.Model\obj\Debug\net7.0\TioSoft.Model.AssemblyInfo.cs
+C:\Users\sebas\OneDrive\Escritorio\TioSoftAngular\APITioSoft\TioSoft.Model\obj\Debug\net7.0\TioSoft.Model.csproj.CoreCompileInputs.cache
+C:\Users\sebas\OneDrive\Escritorio\TioSoftAngular\APITioSoft\TioSoft.Model\obj\Debug\net7.0\TioSoft.Model.dll
+C:\Users\sebas\OneDrive\Escritorio\TioSoftAngular\APITioSoft\TioSoft.Model\obj\Debug\net7.0\refint\TioSoft.Model.dll
+C:\Users\sebas\OneDrive\Escritorio\TioSoftAngular\APITioSoft\TioSoft.Model\obj\Debug\net7.0\TioSoft.Model.pdb
+C:\Users\sebas\OneDrive\Escritorio\TioSoftAngular\APITioSoft\TioSoft.Model\obj\Debug\net7.0\TioSoft.Model.genruntimeconfig.cache
+C:\Users\sebas\OneDrive\Escritorio\TioSoftAngular\APITioSoft\TioSoft.Model\obj\Debug\net7.0\ref\TioSoft.Model.dll

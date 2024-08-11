@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\TioSoft.DAL\TioSoft.DAL.csproj" />
+    <ProjectReference Include="..\TioSoft.DTO\TioSoft.DTO.csproj" />
+    <ProjectReference Include="..\TioSoft.Model\TioSoft.Model.csproj" />
+    <ProjectReference Include="..\TioSoft.Utility\TioSoft.Utility.csproj" />
+  </ItemGroup>
+
+</Project>
